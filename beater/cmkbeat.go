@@ -11,6 +11,7 @@ import (
 	"github.com/elastic/beats/libbeat/common"
 	"github.com/elastic/beats/libbeat/logp"
 	"github.com/elastic/beats/libbeat/publisher"
+	"github.com/elastic/beats/libbeat/publisher/pipeline"
 
 	"github.com/jeremyweader/cmkbeat/config"
 	"github.com/vbatoufflet/go-livestatus"
