@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/elastic/beats/libbeat/beat"
-	"github.com/jeremyweader/cmkbeat/beater"
+	"github.com/deatheibon/cmkbeat/beater"
 )
 
 func main() {
